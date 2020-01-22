@@ -1,0 +1,6 @@
+1. cv2
+2. os
+3. tensorflow
+4. sklearn
+5. numpy
+6. time
